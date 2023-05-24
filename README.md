@@ -2,7 +2,7 @@
 This repo is designed to demonstrate some of the things that you read about in the Code Reviews handout. 
 
 # What to do as a reviewer
-1. <b>Your \#1 job is to help your teammates create the best possible code</b> It is a collaborate effort where you work together. 
+1. <b>Your \#1 job is to help your teammates create the best possible code</b> It is a collaborative effort where you work together. 
 2. <b>Remember the human</b> When you ask questions or offer advice, try to be constructive. Approach potential mistakes by trying to understand the intentions behind the code. Lead with curiosity, not blame. Asking a question gives the author a chance to process their own code and learn why it was incorrect on their own. 
   For example, rather than "This is bad code." a better comment would be "It's best practice to..." 
 3. <b>Offer to help</b> If you give feedback, it can be helpful to include psuedo code or invite them to a brainstorming session to explain potential changes.
